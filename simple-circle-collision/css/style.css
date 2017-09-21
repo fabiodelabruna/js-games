@@ -1,0 +1,9 @@
+div {
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+canvas {
+  border: solid 1px;
+}
